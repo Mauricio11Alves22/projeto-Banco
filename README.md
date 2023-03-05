@@ -16,3 +16,15 @@ tomei a liberdade de realizar o mesmo projeto individualmente para testar meu co
 * E por fim o extra que filtrar uma transação pela categoria inserida em obter uma transação, ela contém dois campos query params.
 
 todos codigo tem respostas, Rest com status, usado try/catch para capturar mensagem de erros, o token recebido através do bearer token.
+
+![Sem título](https://user-images.githubusercontent.com/91357497/222984032-4581e107-0420-4e3e-a763-f3c4d8a47ab7.jpg)
+![Sem título2](https://user-images.githubusercontent.com/91357497/222984037-3e913dc5-cefe-4966-8639-d650c5c8ac04.jpg)
+![Sem título3](https://user-images.githubusercontent.com/91357497/222984038-d9f13993-3a1b-4f3e-bd2f-e55c7c15a114.jpg)
+![Sem título4](https://user-images.githubusercontent.com/91357497/222984040-81d2511c-797a-4553-ad3a-6ea481f16dec.jpg)
+![Sem título5](https://user-images.githubusercontent.com/91357497/222984042-a3e41c25-379f-4080-890b-523b656a5d2b.jpg)
+![Sem título6](https://user-images.githubusercontent.com/91357497/222984043-ad6e4b3d-1269-47f7-b9e8-52c555075402.jpg)
+![Sem título7](https://user-images.githubusercontent.com/91357497/222984044-868949ff-5eea-4a95-bf2b-ad04f40f5847.jpg)
+![Sem título8](https://user-images.githubusercontent.com/91357497/222984047-c1d6171c-3094-4358-9878-cf2f46ddbb3f.jpg)
+![Sem título9](https://user-images.githubusercontent.com/91357497/222984048-f8edc69a-e0f9-4e31-8299-6f0062efd15a.jpg)
+![Sem título10](https://user-images.githubusercontent.com/91357497/222984049-5b396da2-215f-495a-b10e-ace24baf5629.jpg)
+
